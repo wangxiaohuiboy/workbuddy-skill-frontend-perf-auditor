@@ -1,5 +1,5 @@
 ---
-name: frontend-perf-auditor
+name: workbuddy-skill-frontend-perf-auditor
 description: >-
   Analyze frontend performance and produce a prioritized optimization plan:
   bundle size & code-splitting, Core Web Vitals (LCP/CLS/INP), render-blocking
